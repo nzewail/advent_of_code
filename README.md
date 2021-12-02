@@ -1,3 +1,3 @@
 # Advent of Code
 
-Just my [https://adventofcode.com/](solutions)
+Just my solutions for [advent of code](https://adventofcode.com/)
